@@ -1,0 +1,38 @@
+{
+  "236055932461194@lid": {
+    "primeiro_nome": "Atenir",
+    "nome_completo": "Atenir Alves",
+    "endereco": null,
+    "ultimo_pedido": null,
+    "pedidos_confirmados": 0
+  },
+  "279112795050183@lid": {
+    "primeiro_nome": "Olga",
+    "nome_completo": "Olga",
+    "endereco": "Trav, cel , Nelson, Carvalho,  86",
+    "ultimo_pedido": {
+      "data": "2026-02-13T14:02:01.937Z",
+      "carrinho": [
+        {
+          "numero": 1,
+          "tamanho": "Copo 300ml",
+          "acai": [
+            "Açaí Master",
+            "Creme de Maracujá",
+            "Creme de Cupuaçu"
+          ],
+          "gelatos": [],
+          "frutas": [],
+          "complementos": [
+            "Cereja em Calda"
+          ],
+          "caldas": []
+        }
+      ],
+      "forma_entrega": "delivery",
+      "regiao_entrega": "Centro",
+      "taxa_entrega": 5
+    },
+    "pedidos_confirmados": 3
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "559870035468@c.us": {
+    "primeiro_nome": "Ana",
+    "nome_completo": "Ana",
+    "endereco": "Zé Gomes,rua do aeroporto , casa 33",
+    "ultimo_pedido": {
+      "data": "2026-02-15T16:30:59.281Z",
+      "carrinho": [
+        {
+          "numero": 1,
+          "tamanho": "Copo 500ml",
+          "acai": [
+            "Açaí Master",
+            "Açaí Fit",
+            "Creme de Maracujá"
+          ],
+          "gelatos": [
+            "Flocos"
+          ],
+          "frutas": [
+            "Banana"
+          ],
+          "complementos": [
+            "Marshmallow"
+          ],
+          "caldas": [
+            "Mágica"
+          ]
+        }
+      ],
+      "forma_entrega": "retirada",
+      "regiao_entrega": null,
+      "taxa_entrega": null
+    },
+    "pedidos_confirmados": 2
+  },
+  "236055932461194@lid": {
+    "primeiro_nome": "Atenir",
+    "nome_completo": "Atenir Alves",
+    "endereco": null,
+    "ultimo_pedido": {
+      "data": "2026-02-18T15:23:20.476Z",
+      "carrinho": [
+        {
+          "numero": 1,
+          "tamanho": "Marmita 300ml",
+          "acai": [
+            "Açaí Master",
+            "Creme de Maracujá"
+          ],
+          "gelatos": [
+            "Flocos",
+            "Creme de Ovomaltine"
+          ],
+          "frutas": [
+            "Banana"
+          ],
+          "complementos": [
+            "Cereja em Calda"
+          ],
+          "caldas": [
+            "Pistache"
+          ]
+        }
+      ],
+      "forma_entrega": "retirada",
+      "regiao_entrega": null,
+      "taxa_entrega": null
+    },
+    "pedidos_confirmados": 1,
+    "pagamento_retirada_explicado": false
+  }
+}
